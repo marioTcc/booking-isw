@@ -34,5 +34,4 @@ camera, data check-in, data check-out).
 
 
 ### Note Ambiente ###
-### Il progetto è stato svilupato su Python 3.6 ###
-### con Django 2.6 ###
+### Il progetto è stato svilupato su Python 3.6 con Django 2.0.6 ###
